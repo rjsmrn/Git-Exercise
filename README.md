@@ -24,8 +24,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Ruj Samarnworakit 
+Email: ruji.samarn@gmail.com 
 
 🖼️ 2. Picture
 
