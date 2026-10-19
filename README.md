@@ -24,16 +24,20 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: Ruj Samarnworakit 
-Email: ruji.samarn@gmail.com 
+Name: Ruj Samarnworakit Email: ruji.samarn@gmail.com 
+
+Name: *** Your full name *** Email: *** Your email address ***
+
+Name: *** Your full name *** Email: *** Your email address ***
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git Animation](Animation/GITGIF.gif)
+![Git Animation](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
