@@ -28,7 +28,7 @@ Name: Ruj Samarnworakit Email: ruji.samarn@gmail.com
 
 Name: Thanayut Thawornpracha Email: thanayut.tatar@gmail.com
 
-Name: *** Your full name *** Email: *** Your email address ***
+Name: Torpat Sirilattaporn Email: patsiri24744@gmail.com
 
 🖼️ 2. Picture
 
