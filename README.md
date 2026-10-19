@@ -26,7 +26,7 @@ c) Update this README.md file:
 
 Name: Ruj Samarnworakit Email: ruji.samarn@gmail.com 
 
-Name: *** Your full name *** Email: *** Your email address ***
+Name: Thanayut Thawornpracha Email: thanayut.tatar@gmail.com
 
 Name: *** Your full name *** Email: *** Your email address ***
 
